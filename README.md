@@ -16,9 +16,13 @@ The model defined is a pre-trained VGG16 model. Although I experimented with dif
 # Model Traning and Testing
 The model is trained for 60 epochs. The validation set for the model is to tune the hyperparameter and track the validation loss to avoid overfitting. Here early stopping is employed with a patience parameter of ten epochs to avoid overfitting. The plot for training, validation loss and accuracy is added below. The model is tested on datapoint more than 100 from all three classes. 
 ![image](https://github.com/tjorgais/Paramilitary-Uniform-Detection-with-Deep-Learning/assets/42938890/3e3f1f7b-6194-4cc7-b23c-b077ff3c3bcf)
-
+![image](https://github.com/tjorgais/Paramilitary-Uniform-Detection-with-Deep-Learning/assets/42938890/c27ed63f-dc67-4aa0-97d0-16019a2913cb)
 
 
 ## Result
 To evaluate the model performance, accuracy, weighted precision, recall and F1 score are computed on the test set. Also, the confusion matrix is plotted for test set.
+![Screenshot 2023-07-12 163509](https://github.com/tjorgais/Paramilitary-Uniform-Detection-with-Deep-Learning/assets/42938890/fcb90457-749e-4a8e-9013-11ff793e8fa6)
+![image](https://github.com/tjorgais/Paramilitary-Uniform-Detection-with-Deep-Learning/assets/42938890/8ecae6a4-d5d1-43a9-8e39-2360cde017ae)
+
+
 
