@@ -1,5 +1,5 @@
 # Paramilitary-Uniform-Detection-with-Deep-Learning
-Given an Image of a paramilitary belonging to either CRPF, BSF or J&amp;K police, the model detects which category It belongs to.
+Given an Image of a paramilitary belonging to either CRPF, BSF or J&amp;K police, the model detects which category It belongs to. The link to the dataset is here https://drive.google.com/drive/folders/1OiQT6eJRwdk6aP0cf6JBsJ7W2bO5Ccdp?usp=sharing.
 The model handles edge cases such as different uniforms within each class such as Rapid Action Force(RAF), Regula Combat Camouflage, and regular khaki for CRPF class for instance.
 
 ## About the dataset
