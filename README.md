@@ -20,7 +20,7 @@ The model is trained for 60 epochs. The validation set for the model is to tune 
 
 
 ## Result
-To evaluate the model performance, accuracy, weighted precision, recall and F1 score are computed on the test set. Also, the confusion matrix is plotted for test set.
+To evaluate the model performance, accuracy, weighted precision, recall and F1 score are computed on the test set. Also, the confusion matrix is plotted for test set. The accuracy of the model on the test set is 93%.
 ![Screenshot 2023-07-12 163509](https://github.com/tjorgais/Paramilitary-Uniform-Detection-with-Deep-Learning/assets/42938890/fcb90457-749e-4a8e-9013-11ff793e8fa6)
 ![image](https://github.com/tjorgais/Paramilitary-Uniform-Detection-with-Deep-Learning/assets/42938890/8ecae6a4-d5d1-43a9-8e39-2360cde017ae)
 
